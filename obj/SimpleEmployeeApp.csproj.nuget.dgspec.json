@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\desktop\\SimpleEmployeeApp\\SimpleEmployeeApp.csproj": {}
+    "C:\\Users\\admin\\desktop\\CSharpProjects\\MGQSSimpleEmployeeApp\\SimpleEmployeeApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\desktop\\SimpleEmployeeApp\\SimpleEmployeeApp.csproj": {
+    "C:\\Users\\admin\\desktop\\CSharpProjects\\MGQSSimpleEmployeeApp\\SimpleEmployeeApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\desktop\\SimpleEmployeeApp\\SimpleEmployeeApp.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\desktop\\CSharpProjects\\MGQSSimpleEmployeeApp\\SimpleEmployeeApp.csproj",
         "projectName": "SimpleEmployeeApp",
-        "projectPath": "C:\\Users\\admin\\desktop\\SimpleEmployeeApp\\SimpleEmployeeApp.csproj",
+        "projectPath": "C:\\Users\\admin\\desktop\\CSharpProjects\\MGQSSimpleEmployeeApp\\SimpleEmployeeApp.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\desktop\\SimpleEmployeeApp\\obj\\",
+        "outputPath": "C:\\Users\\admin\\desktop\\CSharpProjects\\MGQSSimpleEmployeeApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

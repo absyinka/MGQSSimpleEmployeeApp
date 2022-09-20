@@ -21,10 +21,10 @@ namespace SimpleEmployeeApp.Repository
                 Phone = "08099889988",
                 Gender = Gender.Male,
                 Role = Role.Admin,
-                DateJoined = DateTime.Now,
+                DateJoined = DateTime.Now
             }
         };
-
+        
         public List<Employee> GetAll()
         {
             return employees;
